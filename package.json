@@ -1,0 +1,37 @@
+{
+  "name": "git-conflict-finder",
+  "version": "1.0.0",
+  "description": "Find and navigate git merge conflicts. Show context, track progress. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "git-conflict-finder": "./index.js",
+    "gcf": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "git",
+    "merge",
+    "conflicts"
+  ],
+  "license": "MIT",
+  "author": "NickCirv",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/git-conflict-finder.git"
+  },
+  "homepage": "https://github.com/NickCirv/git-conflict-finder#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/git-conflict-finder/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
