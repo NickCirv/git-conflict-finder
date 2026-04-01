@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # git-conflict-finder
 
 > Find, show, and track git merge conflicts. Zero dependencies.
